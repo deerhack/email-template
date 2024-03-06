@@ -1,0 +1,45 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Satoshi" href="https://fonts.cdnfonts.com/css/satoshi" />
+    <mj-attributes>
+      
+  
+      <mj-text align="center" color="#555" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+    <mj-style inline="inline"> 
+      
+      
+      .leaf{ 
+      position:absolute;
+      top: 0;
+      right: 0;
+      height:200px;
+      
+      }
+    
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#110c24">
+    <mj-section background-color="#110c24">
+      <mj-group>
+        < <mj-column>
+          <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x01.png" />
+          </mj-column>
+          <mj-column>
+            <mj-image width="100px" src="https://191n.mj.am/img/191n/3s/x01.png" css-class="leaf" />
+          </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#110c24">
+      <mj-column>
+        <mj-text align="left" color="white" font-family="Satoshi" font-size="15px">Dear <span style="color: #ffd259"> John, </span></mj-text>
+        <mj-text align="left" color="white" font-family="Satoshi" font-size="15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</mj-text>
+        <mj-text align="left" color="white" font-family="Satoshi" font-size="15px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.</mj-text>
+        <mj-text align="left" color="white" font-family="Satoshi" font-size="15px"> Regards, <br />
+          <span style="color: #ffd259"> DeerHack Organizing Committee </span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
